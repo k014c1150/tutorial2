@@ -1,1 +1,7 @@
-change yamamuro
+
+GITの練習
+PUSHとPULL
+大栗変更
+
+変更！　多田
+山室変更
