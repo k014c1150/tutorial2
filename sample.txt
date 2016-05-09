@@ -1,2 +1,3 @@
 GITの練習
 PUSHとPULL
+大栗変更
