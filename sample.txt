@@ -1,2 +1,3 @@
-GITの練習
-PUSHとPULL
+gitの練習
+push and PULL
+変更　多田
